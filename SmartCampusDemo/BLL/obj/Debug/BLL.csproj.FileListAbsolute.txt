@@ -1,0 +1,11 @@
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\bin\Debug\BLL.dll
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\bin\Debug\BLL.pdb
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\bin\Debug\DAL.dll
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\bin\Debug\Models.dll
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\bin\Debug\DAL.pdb
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\bin\Debug\Models.pdb
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\obj\Debug\BLL.dll
+D:\Project\智慧校园（上课案例）\SmartCampusDemo\BLL\obj\Debug\BLL.pdb
