@@ -1,9 +1,0 @@
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\bin\Debug\DAL.dll
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\bin\Debug\DAL.pdb
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\bin\Debug\Models.dll
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\bin\Debug\Models.pdb
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\obj\Debug\DAL.csproj.CopyComplete
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\obj\Debug\DAL.dll
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\DAL\obj\Debug\DAL.pdb

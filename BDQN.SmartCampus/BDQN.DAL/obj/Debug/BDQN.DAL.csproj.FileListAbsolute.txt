@@ -1,0 +1,16 @@
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\BDQN.DAL.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\BDQN.DAL.pdb
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\BDQN.IDAL.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\BDQN.Models.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\EntityFramework.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\BDQN.IDAL.pdb
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\BDQN.Models.pdb
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\BDQN.Models.dll.config
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\EntityFramework.xml
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\obj\Debug\BDQN.DAL.csproj.AssemblyReference.cache
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\obj\Debug\BDQN.DAL.csproj.CoreCompileInputs.cache
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\obj\Debug\BDQN.DAL.csproj.CopyComplete
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\obj\Debug\BDQN.DAL.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.DAL\obj\Debug\BDQN.DAL.pdb

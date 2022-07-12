@@ -1,0 +1,12 @@
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\bin\Debug\BDQN.IBLL.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\bin\Debug\BDQN.IBLL.pdb
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\bin\Debug\BDQN.Models.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\bin\Debug\EntityFramework.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\bin\Debug\BDQN.Models.pdb
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\bin\Debug\BDQN.Models.dll.config
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\bin\Debug\EntityFramework.xml
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\obj\Debug\BDQN.IBLL.csproj.AssemblyReference.cache
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\obj\Debug\BDQN.IBLL.csproj.CoreCompileInputs.cache
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\obj\Debug\BDQN.IBLL.csproj.CopyComplete
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\obj\Debug\BDQN.IBLL.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.IBLL\obj\Debug\BDQN.IBLL.pdb

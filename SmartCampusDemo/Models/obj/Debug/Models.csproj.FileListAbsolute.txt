@@ -1,6 +1,0 @@
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\Models\bin\Debug\Models.dll
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\Models\bin\Debug\Models.pdb
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\Models\obj\Debug\Models.csproj.AssemblyReference.cache
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\Models\obj\Debug\Models.dll
-D:\Project\智慧校园（上课案例）\SmartCampusDemo\Models\obj\Debug\Models.pdb

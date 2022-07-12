@@ -1,0 +1,16 @@
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\bin\Debug\BDQN.Models.dll.config
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\bin\Debug\BDQN.Models.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\bin\Debug\BDQN.Models.pdb
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\bin\Debug\EntityFramework.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\bin\Debug\EntityFramework.xml
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.csproj.AssemblyReference.cache
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.csproj.CoreCompileInputs.cache
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.csproj.CopyComplete
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.dll
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.pdb
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.Migrations.init.resources
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.csproj.GenerateResource.cache
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.Migrations.addSystemMenus.resources
+D:\Project\智慧校园（上课案例）\BDQN.SmartCampus\BDQN.Models\obj\Debug\BDQN.Models.Migrations.addSystemMenus1.resources
